@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P10-Know Your Facts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fact1">The word "queue" is the only word in the English language that is still pronounced the same way when the last four letters are removed.</string>
+    <string name="fact2">	Honey is the only food that does not spoil. Honey found in the tombs of Egyptian pharaohs has been tasted by archaeologists and found edible.</string>
+</resources>
